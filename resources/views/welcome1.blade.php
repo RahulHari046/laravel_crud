@@ -43,12 +43,12 @@
             <table class="table text-center" id="userList">
                 <thead>
                     <tr>
-                        <th scope="col">id</th>
-                        <th scope="col">name</th>
-                        <th scope="col">email</th>
-                        <th scope="col">Age</th>
-                        <th scope="col">Delete</th>
-                        <th scope="col">Update</th>
+                        <th scope="col">id1</th>
+                        <th scope="col">name1</th>
+                        <th scope="col">email1</th>
+                        <th scope="col">Age1</th>
+                        <th scope="col">Delete1</th>
+                        <th scope="col">Update1</th>
                     </tr>
                 </thead>
                 <tbody>
