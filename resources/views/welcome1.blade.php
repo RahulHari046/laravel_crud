@@ -31,7 +31,7 @@
                         <span id="agee" class="text-danger"></span>
 
                         <div class="d-flex align-items-center justify-content-center ">
-                            <button id="submit" class=" mt-2 btn btn-primary">submit</button>
+                            <button id="submit" class=" mt-2 btn btn-primary">sub</button>
                         </div>
 
                     </div>
